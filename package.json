@@ -10,7 +10,7 @@
     "lint": "vue-cli-service lint",
     "pack": "vue-cli-service build --target lib --name VueCollapse ./src/components/index.js"
   },
-  "main": "dis/VueCollapse.common.js",
+  "main": "dist/VueCollapse.common.js",
   "files": [
     "dist/*.js",
     "dist/*.js.map",
